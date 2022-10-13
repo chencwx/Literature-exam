@@ -62,28 +62,22 @@
 
 ## 基础文献
 
-[1]习近平.敏锐抓住信息化发展历史机遇自主创新推进网络强国建设[J].党建,2018(05):1.
-[2]沈昌祥,左晓栋.网络空间安全导论[M].北京:电子工业出版社,2018.
-[3]杨义先,钮心忻.安全简史:从隐私保护到量子密码[M].电子工业出版社,2017.
-[4]科弗,托马斯.信息论基础[M].阮吉寿,等,译.北京:机械工业出版社,2008.
-[5]拉森,马克思.数理统计及其应用[M].北京:机械工业出版社,2019.
-[6]殷俊峰.矩阵分析[M].上海:同济大学出版社,2017.
-[7]周志华.机器学习[M].北京:清华大学出版社,2016.
-[8]王燕军,梁治安,崔雪婷.最优化基础理论与方法:第2 版[M].上海:复旦大学出版社,2018.
-[9]冈萨雷斯,伍兹.数字图像处理：第4 版[M].阮秋琦,阮宇智,译.北京:电子工业出版社,2020.
-[10]何晗.自然语言处理入门[M].北京:人民邮电出版社,2019.
-[11]GOODFELLOW I, BENGIO Y, COURVILLE A, et al. Deep learning[M]. Cambridge: The
-MIT Press, 2016.
-[12]GHAFFARIAN S M, SHAHRIARI H R. Software vulnerability analysis and discovery using
-machine-learning and data-mining techniques: A survey[J]. ACM Computing Surveys
-(CSUR), 2017, 50(4): 1-36.
-[13]KHRAISAT A, GONDAL I, VAMPLEW P, et al. Survey of intrusion detection systems:
-techniques, datasets and challenges[J]. Cybersecurity, 2019, 2(1): 1-22.
-[14]ZHENG Z, XIE S, DAI H, et al. An overview of blockchain technology: Architecture,
-consensus, and future trends[C]//2017 IEEE International Congress on Big Data (BigData
-Congress). IEEE, 2017: 557-564.
-[15]费孝通.乡土中国[M].上海人民出版社, 2013.
-[16]李泽厚.美的历程[M].北京:生活.读书.新知三联书店,2014.
+1. 习近平.敏锐抓住信息化发展历史机遇自主创新推进网络强国建设[J].党建,2018(05):1.
+2. 沈昌祥,左晓栋.网络空间安全导论[M].北京:电子工业出版社,2018.
+3. 杨义先,钮心忻.安全简史:从隐私保护到量子密码[M].电子工业出版社,2017.
+4. 科弗,托马斯.信息论基础[M].阮吉寿,等,译.北京:机械工业出版社,2008.
+5. 拉森,马克思.数理统计及其应用[M].北京:机械工业出版社,2019.
+6. 殷俊峰.矩阵分析[M].上海:同济大学出版社,2017.
+7. 周志华.机器学习[M].北京:清华大学出版社,2016.
+8. 王燕军,梁治安,崔雪婷.最优化基础理论与方法:第2 版[M].上海:复旦大学出版社,2018.
+9. 冈萨雷斯,伍兹.数字图像处理：第4 版[M].阮秋琦,阮宇智,译.北京:电子工业出版社,2020.
+10. 何晗.自然语言处理入门[M].北京:人民邮电出版社,2019.
+11. GOODFELLOW I, BENGIO Y, COURVILLE A, et al. Deep learning[M]. Cambridge: The MIT Press, 2016.
+12. GHAFFARIAN S M, SHAHRIARI H R. Software vulnerability analysis and discovery using machine-learning and data-mining techniques: A survey[J]. ACM Computing Surveys(CSUR), 2017, 50(4): 1-36.
+13. KHRAISAT A, GONDAL I, VAMPLEW P, et al. Survey of intrusion detection systems: techniques, datasets and challenges[J]. Cybersecurity, 2019, 2(1): 1-22.
+14. ZHENG Z, XIE S, DAI H, et al. An overview of blockchain technology: Architecture, consensus, and future trends[C]//2017 IEEE International Congress on Big Data (BigData Congress). IEEE, 2017: 557-564.
+15. 费孝通.乡土中国[M].上海人民出版社, 2013.
+16. 李泽厚.美的历程[M].北京:生活.读书.新知三联书店,2014.
 
 ## 专业文献
 
