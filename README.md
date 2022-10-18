@@ -82,32 +82,32 @@
 ## 专业文献
 
 **恶意软件分析与检测**
-1. [22]SOURI A, HOSSEINI R. A state-of-the-art survey of malware detection approaches using data mining techniques[J]. Human-centric Computing and Information Sciences, 2018, 8(01):1-22.
-2. [40]MONNAPPA K A. Learning malware analysis: explore the concepts, tools, and techniques to analyze and investigate windows malware[M]. Packt Publishing Ltd, 2018.
-3. [42]SIHWAIL R, OMAR K, ARIFFIN K A Z. A survey on malware analysis techniques: Static, dynamic, hybrid and memory analysis[J]. International Journal on Advanced Science, Engineering and Information Technology, 2018, 8(4-2): 1662.
-4. [43]ARSHAD S, SHAH M A, KHAN A, et al. Android malware detection & protection: a survey[J]. International Journal of Advanced Computer Science and Applications, 2016,7(02): 463-475.
-5. [64]MCLAUGHLIN N, MARTINEZ DEL RINCON J, KANG B J, et al. Deep android malware detection[C]//Proceedings of the Seventh ACM on Conference on Data and Application Security and Privacy. 2017: 301-308.
-6. [65]DAMODARAN A, DI TROIA F, VISAGGIO C A, et al. A comparison of static, dynamic, and hybrid analysis for malware detection[J]. Journal of Computer Virology and Hacking Techniques, 2017, 13(01): 1-12.
-7. [66]VINAYAKUMAR R, ALAZAB M, SOMAN K P, et al. Robust intelligent malware detection using deep learning[J]. IEEE Access, 2019, 7: 46717-46738.
+1. [22]SOURI A, HOSSEINI R. A state-of-the-art survey of malware detection approaches using data mining techniques[J]. Human-centric Computing and Information Sciences, 2018, 8(01):1-22. wgc
+2. [40]MONNAPPA K A. Learning malware analysis: explore the concepts, tools, and techniques to analyze and investigate windows malware[M]. Packt Publishing Ltd, 2018.  cwx
+3. [42]SIHWAIL R, OMAR K, ARIFFIN K A Z. A survey on malware analysis techniques: Static, dynamic, hybrid and memory analysis[J]. International Journal on Advanced Science, Engineering and Information Technology, 2018, 8(4-2): 1662.  hyf
+4. [43]ARSHAD S, SHAH M A, KHAN A, et al. Android malware detection & protection: a survey[J]. International Journal of Advanced Computer Science and Applications, 2016,7(02): 463-475.   YT
+5. [64]MCLAUGHLIN N, MARTINEZ DEL RINCON J, KANG B J, et al. Deep android malware detection[C]//Proceedings of the Seventh ACM on Conference on Data and Application Security and Privacy. 2017: 301-308.   cwx
+6. [65]DAMODARAN A, DI TROIA F, VISAGGIO C A, et al. A comparison of static, dynamic, and hybrid analysis for malware detection[J]. Journal of Computer Virology and Hacking Techniques, 2017, 13(01): 1-12. cwx
+7. [66]VINAYAKUMAR R, ALAZAB M, SOMAN K P, et al. Robust intelligent malware detection using deep learning[J]. IEEE Access, 2019, 7: 46717-46738. sn
 
 **漏洞扫描与检测**
 1. [18]邹权臣,张涛,吴润浦,等.从自动化到智能化:软件漏洞挖掘技术进展[J].清华大学学报:自然科学版, 2018, 58(12):1079-1094.
 2. [19]郑尧文,文辉,程凯,等.物联网设备漏洞挖掘技术研究综述[J].信息安全学报,2019,4(5):61-75.
-3. [21]YU M, ZHUGE J, CAO M, et al. A survey of security vulnerability analysis, discovery, detection, and mitigation on IoT devices[J]. Future Internet, 2020, 12(02): 27.
-4. [24]XIE W , JIANG Y , TANG Y , et al. Vulnerability Detection in IoT Firmware: A Survey[C] IEEE.2017 IEEE 23rd International Conference on Parallel and Distributed Systems(ICPADS). IEEE, 2017.
-5. [25]NESHENKO N, BOU-HARB E, CRICHIGNO J, et al. Demystifying IoT security: an exhaustive survey on IoT vulnerabilities and a first empirical look on internet-scale IoT exploitations[J]. IEEE Communications Surveys & Tutorials, 2019, 21(03): 2702-2733.
-6. [26]MENEGHELLO F, CALORE M, ZUCCHETTO D, et al. IoT: Internet of threats? A survey of practical security vulnerabilities in real IoT devices[J]. IEEE Internet of Things Journal,2019, 6(05): 8182-8201.
-7. [47]LIU B , SHI L , CAI Z , et al. Software vulnerability discovery techniques: a survey[C]//IEEE. Fourth International Conference on Multimedia Information Networking & Security.IEEE, 2013.
+3. [21]YU M, ZHUGE J, CAO M, et al. A survey of security vulnerability analysis, discovery, detection, and mitigation on IoT devices[J]. Future Internet, 2020, 12(02): 27.    sn
+4. [24]XIE W , JIANG Y , TANG Y , et al. Vulnerability Detection in IoT Firmware: A Survey[C] IEEE.2017 IEEE 23rd International Conference on Parallel and Distributed Systems(ICPADS). IEEE, 2017.   sxh
+5. [25]NESHENKO N, BOU-HARB E, CRICHIGNO J, et al. Demystifying IoT security: an exhaustive survey on IoT vulnerabilities and a first empirical look on internet-scale IoT exploitations[J]. IEEE Communications Surveys & Tutorials, 2019, 21(03): 2702-2733.   sxh
+6. [26]MENEGHELLO F, CALORE M, ZUCCHETTO D, et al. IoT: Internet of threats? A survey of practical security vulnerabilities in real IoT devices[J]. IEEE Internet of Things Journal,2019, 6(05): 8182-8201.   sxh
+7. [47]LIU B , SHI L , CAI Z , et al. Software vulnerability discovery techniques: a survey[C]//IEEE. Fourth International Conference on Multimedia Information Networking & Security.IEEE, 2013. ygz
 
 
 **入侵检测**
-1. [23]MANES V J M , HAN H S , HAN C , et al. The Art, Science, and Engineering of Fuzzing: A Survey[J]. IEEE Transactions on Software Engineering, 2019, 47(11):1-23.
-2. [44]KHRAISAT A, GONDAL I, VAMPLEW P, et al. Survey of intrusion detection systems: techniques, datasets and challenges[J]. Cybersecurity, 2019, 2(01): 1-22.
-3. [45]RING M , WUNDERLICH S , SCHEURING D , et al. A Survey of Network-based Intrusion Detection Data Sets[J]. Computers & Security, 2019, 86:147-167.
-4. [48]ZARPELAO B B , MIANI R S , KAWAKANI C T , et al. A survey of intrusion detection in Internet of Things[J]. Journal of Network & Computer Applications, 2017, 84(Apr.):25-37.
-5. [61]SHARAFALDIN I, LASHKARI A H, GHORBANI A A. Toward generating a new intrusion detection dataset and intrusion traffic characterization[C]//ICISSp. 2018: 108-116.
-6. [62]SHONE N, NGOC T N, PHAI V D, et al. A deep learning approach to network intrusion detection[J]. IEEE transactions on emerging topics in computational intelligence, 2018, 2(01): 41-50.
-7. [63]KHRAISAT A, GONDAL I, VAMPLEW P, et al. Survey of intrusion detection systems: techniques, datasets and challenges[J]. Cybersecurity, 2019, 2(01): 1-22.
+1. [23] MANES V J M , HAN H S , HAN C , et al. **The Art, Science, and Engineering of Fuzzing: A Survey**[J]. IEEE Transactions on Software Engineering, 2019, 47(11):1-23.
+2. [44]KHRAISAT A, GONDAL I, VAMPLEW P, et al. Survey of intrusion detection systems: techniques, datasets and challenges[J]. Cybersecurity, 2019, 2(01): 1-22. cwx
+3. [45]RING M , WUNDERLICH S , SCHEURING D , et al. A Survey of Network-based Intrusion Detection Data Sets[J]. Computers & Security, 2019, 86:147-167.   ygz(ppt)
+4. [48]ZARPELAO B B , MIANI R S , KAWAKANI C T , et al. A survey of intrusion detection in Internet of Things[J]. Journal of Network & Computer Applications, 2017, 84(Apr.):25-37.   jqy,cwx
+5. [61]SHARAFALDIN I, LASHKARI A H, GHORBANI A A. Toward generating a new intrusion detection dataset and intrusion traffic characterization[C]//ICISSp. 2018: 108-116.   jqy,cwx
+6. [62]SHONE N, NGOC T N, PHAI V D, et al. A deep learning approach to network intrusion detection[J]. IEEE transactions on emerging topics in computational intelligence, 2018, 2(01): 41-50. sn
+7. [63]KHRAISAT A, GONDAL I, VAMPLEW P, et al. Survey of intrusion detection systems: techniques, datasets and challenges[J]. Cybersecurity, 2019, 2(01): 1-22. cwx
 
 **数据安全**
 1. [17]古德费洛,本吉奥,库维尔.深度学习[M].赵申剑,黎彧君,符天凡,等译.北京:人民邮电出版社,2017.
